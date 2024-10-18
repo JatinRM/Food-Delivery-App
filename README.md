@@ -5,7 +5,7 @@
 # Only the backend is being hosted from this repository.
 
 # Frontend is hosted from another repository => 
-# https://github.com/JatinRM/Food-Deli
+https://github.com/JatinRM/Food-Deli
 
 # Backend is hosted from Render but it is located in this same repository under /backend folder =>
-# https://food-delivery-app-gdxx.onrender.com
+https://food-delivery-app-gdxx.onrender.com
