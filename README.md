@@ -11,3 +11,9 @@ https://github.com/JatinRM/Food-Deli
 
 => Backend is hosted from Render but it is located in this same repository under /backend folder =>
 https://food-delivery-app-gdxx.onrender.com
+
+=> Admin Panel is hosted from following repository =>
+https://github.com/JatinRM/Food-Deli-Admin-Panel
+
+Deployment link of Admin Panel => 
+https://jatinrm.github.io/Food-Deli-Admin-Panel/
